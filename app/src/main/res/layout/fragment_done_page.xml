@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androidprv="http://schemas.android.com/apk/prv/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pages.DonePage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/title_margin_start"
+        android:layout_marginTop="@dimen/title_margin_top"
+        android:text="@string/done_title"
+        android:textColor="?androidprv:attr/textColorOnAccent"
+        android:textSize="@dimen/title_size" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="50dp">
+
+        <ImageView
+            android:id="@+id/done_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/ic_baseline_check_24"
+            android:tint="?androidprv:attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/done_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/done_desc"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/done_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/bg_ripple_round_rectangle"
+            android:backgroundTint="?androidprv:attr/colorAccentPrimary"
+            android:text="@string/done_btn"
+            android:textColor="?androidprv:attr/textColorOnAccent" />
+
+    </LinearLayout>
+
+</FrameLayout>

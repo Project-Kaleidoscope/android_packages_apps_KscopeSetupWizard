@@ -1,0 +1,19 @@
+android_app {
+    name: "KscopeSetupWizard",
+    srcs: [
+        "app/src/main/**/*.java",
+        "app/src/main/**/*.kt",
+    ],
+    resource_dirs: ["app/src/main/res"],
+    manifest: "app/src/main/AndroidManifest.xml",
+    platform_apis: true,
+    system_ext_specific: true,
+    certificate: "platform",
+    privileged: true,
+    static_libs: [
+        "androidx.core_core-ktx",
+        "androidx.viewpager2_viewpager2",
+        "androidx.fragment_fragment",
+    ],
+    overrides: ["Provision"],
+}

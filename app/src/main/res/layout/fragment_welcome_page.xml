@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androidprv="http://schemas.android.com/apk/prv/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pages.WelcomePage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/title_margin_start"
+        android:layout_marginTop="@dimen/title_margin_top"
+        android:text="@string/welcome_title"
+        android:textColor="?androidprv:attr/textColorOnAccent"
+        android:textSize="@dimen/title_size" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingTop="100dp">
+
+        <TextView
+            android:id="@+id/welcome_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/welcome_btn"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/bg_ripple_circle"
+            android:backgroundTint="?androidprv:attr/colorAccentPrimary"
+            android:foreground="@drawable/ic_baseline_arrow_forward_ios_24"
+            android:foregroundGravity="center"
+            android:foregroundTint="?androidprv:attr/colorAccent" />
+    </LinearLayout>
+
+</FrameLayout>

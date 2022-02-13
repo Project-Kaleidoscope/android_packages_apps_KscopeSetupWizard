@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KscopeSetupWizard</string>
+    <string name="next_page">Next</string>
+    <string name="prev_page">Prev</string>
+
+    <!--Welcome Page-->
+    <string name="welcome_title">Welcome</string>
+
+    <!--Done Page-->
+    <string name="done_title">Done</string>
+    <string name="done_btn">Go</string>
+    <string name="done_desc">Congratulations, you have finished all the setups. Click the button below to start using Kaleidoscope.</string>
+</resources>
