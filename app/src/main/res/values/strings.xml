@@ -10,4 +10,10 @@
     <string name="done_title">Done</string>
     <string name="done_btn">Go</string>
     <string name="done_desc">Congratulations, you have finished all the setups. Click the button below to start using Kaleidoscope.</string>
+
+    <!--Agreement Page-->
+    <string name="agreement_title">Agreement</string>
+    <string name="agreement_agree">I agree everything mentioned in the agreement</string>
+    <string name="agreement_alert_title">Agreement not agreed</string>
+    <string name="agreement_alert_message">You must agree the agreement before continuing.</string>
 </resources>

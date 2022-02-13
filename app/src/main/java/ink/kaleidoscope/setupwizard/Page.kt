@@ -4,6 +4,7 @@ import android.content.Context
 
 import androidx.fragment.app.Fragment
 
+import ink.kaleidoscope.setupwizard.pages.AgreementPage
 import ink.kaleidoscope.setupwizard.pages.DonePage
 import ink.kaleidoscope.setupwizard.pages.WelcomePage
 
@@ -15,6 +16,7 @@ class Pages {
             /* Register pages here.
              * They will appear in order */
             WelcomePage::class.java,
+            AgreementPage::class.java,
             DonePage::class.java,
         )
 

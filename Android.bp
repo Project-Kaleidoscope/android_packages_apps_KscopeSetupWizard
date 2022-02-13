@@ -5,6 +5,7 @@ android_app {
         "app/src/main/**/*.kt",
     ],
     resource_dirs: ["app/src/main/res"],
+    asset_dirs: ["app/src/main/assets"],
     manifest: "app/src/main/AndroidManifest.xml",
     platform_apis: true,
     system_ext_specific: true,
