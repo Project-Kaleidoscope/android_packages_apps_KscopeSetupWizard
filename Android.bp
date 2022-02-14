@@ -15,6 +15,9 @@ android_app {
         "androidx.core_core-ktx",
         "androidx.viewpager2_viewpager2",
         "androidx.fragment_fragment",
+        "androidx.preference_preference",
+        "SettingsLib",
+        "VendorSupport-preference",
     ],
     overrides: ["Provision"],
 }

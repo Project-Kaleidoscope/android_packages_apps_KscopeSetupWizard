@@ -16,4 +16,10 @@
     <string name="agreement_agree">I agree everything mentioned in the agreement</string>
     <string name="agreement_alert_title">Agreement not agreed</string>
     <string name="agreement_alert_message">You must agree the agreement before continuing.</string>
+
+    <!--Gms Page-->
+    <string name="gms_title">Google services</string>
+    <string name="gms_desc">Kaleidoscope has build-in Google Services with dynamic switch support, which means you are able to control the existence of them by simply switching the toggle below. You can find the same toggle later in \"Settings > Apps\" after finishing the setup. And remember that do not flash extra GMS packages to avoid breaking any stuff.</string>
+    <string name="gms_enabled">Google services enabled</string>
+    <string name="gms_enabled_desc">Enable Google Mobile Services so you are able to use apps that rely on them.</string>
 </resources>

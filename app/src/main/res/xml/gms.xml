@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ink.kaleidoscope.support.preferences.SecureSettingSwitchPreference
+        android:key="gms_enabled"
+        android:title="@string/gms_enabled"
+        android:summary="@string/gms_enabled_desc"
+        android:defaultValue="false"/>
+</PreferenceScreen>

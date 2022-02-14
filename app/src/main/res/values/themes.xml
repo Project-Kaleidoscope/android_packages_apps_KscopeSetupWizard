@@ -3,5 +3,7 @@
     <style name="Theme.KscopeSetupWizard" parent="android:Theme.DeviceDefault.Light">
         <item name="android:statusBarColor">@color/transparent</item>
         <item name="android:navigationBarColor">@color/transparent</item>
+        <item name="android:switchStyle">@style/Switch.SettingsLib</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SettingsLib</item>
     </style>
 </resources>
