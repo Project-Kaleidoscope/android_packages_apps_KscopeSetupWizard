@@ -13,9 +13,6 @@
 
     <!--Agreement Page-->
     <string name="agreement_title">Agreement</string>
-    <string name="agreement_agree">I agree everything mentioned in the agreement</string>
-    <string name="agreement_alert_title">Agreement not agreed</string>
-    <string name="agreement_alert_message">You must agree the agreement before continuing.</string>
 
     <!--Gms Page-->
     <string name="gms_title">Google services</string>
