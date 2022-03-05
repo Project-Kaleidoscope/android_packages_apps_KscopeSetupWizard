@@ -17,7 +17,6 @@ class Pages {
             /* Register pages here.
              * They will appear in order */
             WelcomePage::class.java,
-            AgreementPage::class.java,
             GmsPage::class.java,
             DonePage::class.java,
         )
