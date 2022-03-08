@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kaleidoscope 设置向导</string>
+    <string name="next_page">下一步</string>
+    <string name="prev_page">上一步</string>
+    <string name="welcome_title">欢迎使用</string>
+    <string name="done_title">完成</string>
+    <string name="done_btn">完成</string>
+    <string name="done_desc">恭喜你完成了所有的步骤！点击下方按钮开始使用 Kaleidoscope</string>
+    <string name="agreement_title">使用协议</string>
+    <string name="gms_title">Google 服务</string>
+    <string name="gms_desc">Kaleidoscope 内置了支持动态开关的 Google 服务套件，这意味着您可以简单地点按下面的开关以控制其启用状态。完成本开机向导后，您可以在“设置 &gt; 应用”中找到相同的开关。请勿额外刷入 GMS 包，以免破坏系统功能。</string>
+    <string name="gms_enabled">启用 Google 服务</string>
+    <string name="gms_enabled_desc">禁用 Google 服务套件可能有助于延长电池使用时间，但依赖其组件的第三方应用程序将无法正常运行。</string>
+</resources>
