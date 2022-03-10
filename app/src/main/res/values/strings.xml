@@ -16,7 +16,7 @@
 
     <!--Gms Page-->
     <string name="gms_title">Google services</string>
-    <string name="gms_desc">Kaleidoscope has build-in Google Services with dynamic switch support, which means you are able to control the existence of them by simply switching the toggle below. You can find the same toggle later in \"Settings > Apps\" after finishing the setup. And remember that do not flash extra GMS packages to avoid breaking any stuff.</string>
+    <string name="gms_desc">Kaleidoscope has built-in Google Services with dynamic switch support, which means you are able to control the existence of them by simply switching the toggle below. You can find the same toggle later in \"Settings > Apps\" after finishing the setup. And remember that do not flash extra GMS packages to avoid breaking any stuff.</string>
     <string name="gms_enabled">Enable Google services</string>
     <string name="gms_enabled_desc">Disable Google services may help extend the battery life, but third-party apps relying on GMS components will not work properly.</string>
 </resources>
