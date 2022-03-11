@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройка устройства Kaleidoscope</string>
+    <string name="next_page">Следующий</string>
+    <string name="prev_page">Предыдущий</string>
+    <string name="welcome_title">Добро пожаловать</string>
+    <string name="done_title">Готово</string>
+    <string name="done_btn">Готово</string>
+    <string name="done_desc">Поздравляем, вы завершили все этапы настройки. Нажмите на кнопку ниже, чтобы начать использовать Kaleidoscope.</string>
+    <string name="agreement_title">Соглашение</string>
+    <string name="gms_title">Google службы</string>
+    <string name="gms_desc">В Kaleidoscope встроены Google Службы с поддержкой динамического переключения, что означает, что вы можете контролировать их существование простым переключением тумблера ниже. Этот же тумблер вы можете найти позже в \"Настройки &gt; Приложения\" после завершения настройки. И помните, что не следует устанавливать дополнительные пакеты GMS во избежание поломок.</string>
+    <string name="gms_enabled">Включить Google службы</string>
+    <string name="gms_enabled_desc">Отключение служб Google может помочь продлить время работы батареи, но сторонние приложения, полагающиеся на компоненты GMS, не будут работать должным образом.</string>
+</resources>

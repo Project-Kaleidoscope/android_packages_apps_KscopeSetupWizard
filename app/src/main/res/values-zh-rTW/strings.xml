@@ -6,10 +6,10 @@
     <string name="welcome_title">歡迎</string>
     <string name="done_title">完成</string>
     <string name="done_btn">Go</string>
-    <string name="done_desc">恭喜你完成了所有設定步驟，點擊下方按鈕開始使用Kaleidoscope</string>
+    <string name="done_desc">恭喜你完成了所有設定步驟，點擊下方按鈕開始使用 Kaleidoscope</string>
     <string name="agreement_title">使用條款</string>
     <string name="gms_title">Google 服務</string>
-    <string name="gms_desc">Kaleidoscope 內建了支持動態開關的 Google 服務套件，這意味著您可以簡單地點按下面的開關以控制其啟用狀態。完成本開機嚮導後，您可以在“設定 &gt; 應用程式”中找到相同的開關。請勿額外刷入 GMS 包，以免破壞系統功能。</string>
+    <string name="gms_desc">Kaleidoscope 內建了支援動態開關的 Google 服務，這意味著您可以簡單地點按下面的開關以控制其啟用狀態。完成本開機嚮導後，您可以在“設定 &gt; 應用程式”中找到相同的開關。請勿額外刷入 GMS 包，以免破壞系統功能。</string>
     <string name="gms_enabled">開啟 Google 服務</string>
-    <string name="gms_enabled_desc">停用 Google 服務套件可能有助於延長電池使用時間，但依賴其服務的第三方應用程式將無法正常執行。</string>
+    <string name="gms_enabled_desc">停用 Google 服務可能有助於延長電池使用時間，但依賴其服務的第三方應用程式將無法正常執行。</string>
 </resources>
