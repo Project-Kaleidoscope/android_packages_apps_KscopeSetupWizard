@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KscopeSetupWizard</string>
+    <string name="next_page">Далі</string>
+    <string name="prev_page">Попереднє</string>
+    <string name="welcome_title">Ласкаво просимо</string>
+    <string name="done_title">Зроблено</string>
+    <string name="done_btn">Го</string>
+    <string name="done_desc">Вітаю, ви закінчили усі установки. Нажміть кнопку знизу щоб почати використовувати Калейдоскоп.</string>
+    <string name="agreement_title">Угода</string>
+    <string name="gms_title">Гугл сервіси</string>
+    <string name="gms_desc">Калейдоскоп встроєн у Гугл Сервіси з динамічною підтримкою перемикача, що означає, що ви можете контролювати існування них завдяки простому перемиканням перемикача знизу. Ви можете знайти такий самий перемикач потім в \"Налаштування &gt; Додатки\" після завершення установлення. І пам’ятайте, що не запускайте додаткові пакети GMS, щоб не пошкодити будь-які речі.</string>
+    <string name="gms_enabled">Увімкнути Гугл сервіси</string>
+    <string name="gms_enabled_desc">Від\'єднання Гугл сервісів може допомогти щоб зберегти заряд батареї, але сторонні програми, які покладаються на компоненти GMS, не працюватимуть належним чином.</string>
+</resources>
